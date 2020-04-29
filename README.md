@@ -1,2 +1,2 @@
 # ITBA
-Apuntes de ITBA - Laboratorio de Python y Deep Learning
+Apuntes de ITBA - Laboratorio de Probabilidad y Estadistica en Python.
